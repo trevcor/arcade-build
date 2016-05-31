@@ -1,6 +1,6 @@
 # arcade-build
 
-Meeting notes: 5/18/16
+# Meeting notes: 5/18/16
 
 We focused on splitting up into groups assigning captains for each work stream.
 
@@ -17,7 +17,7 @@ Trevor and Brian
 Focusing on the design and construction of the arcade cabinet.
 
 
-Meeting notes: 5/4/16
+# Meeting notes: 5/4/16
 
 We talked about the two main streams of work that we can split up into.
 
