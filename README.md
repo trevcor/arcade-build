@@ -1,5 +1,22 @@
 # arcade-build
 
+Meeting notes: 5/18/16
+
+We focused on splitting up into groups assigning captains for each work stream.
+
+## Hardware
+Juras will captain this team.
+Focusing on pricing out hardware and building the computer-controls connections.
+
+## Software
+Bob will captain this team.
+Focusing on the OS, emulator software, and interface.
+
+## Cabinet
+Trevor and Brian
+Focusing on the design and construction of the arcade cabinet.
+
+
 Meeting notes: 5/4/16
 
 We talked about the two main streams of work that we can split up into.
